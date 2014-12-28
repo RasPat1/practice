@@ -48,7 +48,8 @@ Misc
 
 To Do
 =====
- * Graph Search
+Graph
+-----
  * Floyd Warshall
  * Min spanning trees
  * Max Flow
