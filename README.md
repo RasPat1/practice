@@ -53,6 +53,11 @@ Graph
  * Floyd Warshall
  * Min spanning trees
  * Max Flow
+ * Graph Coloring
+
+Dynamic Programming
+-------------------
+ * Knapsack
 
 [Random algs](https://github.com/sagivo/algorithms)
 
